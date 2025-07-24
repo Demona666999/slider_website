@@ -240,8 +240,8 @@ h2{
     box-shadow: none;
     display: inline-block;
     cursor: pointer;
-    padding: 5px; /* Добавляем padding для увеличения области клика */
-    box-sizing: border-box; /* Чтобы padding не влиял на размер */
+    padding: 5px;
+    box-sizing: border-box; 
 }
 .dot:active {
     transform: scale(0.9);
